@@ -95,6 +95,27 @@ Enter early when a bounty has few entries and many paid places, and build
 the image bounties first when several share a deadline — they are usually
 the quickest to finish.
 
+## Your first bounty in an afternoon
+
+If you want one concrete place to start, pick a small bounty with many
+paid places — a $250 image or forecasting bounty, for example — and treat
+it as practice:
+
+1. Open its page and read the prize, the deadline, and the rules in full.
+2. Download the kit. Read `RULES.txt` before you write any code; it tells
+   you exactly what the grader runs and what a valid entry looks like.
+3. Build the smallest entry that meets the rules, then run the kit's own
+   checks on it and fix what fails. A valid entry that scores modestly
+   beats a clever one that fails a check.
+4. Bundle the transcripts of the sessions that built it and submit before
+   the deadline. Poll the status until the entry is checked and scored.
+5. Whatever it scores, read the result: the loss, the coverage, the
+   typical miss. That feedback is what makes the second bounty better
+   than the first.
+
+One finished entry teaches you the loop. The second one is where the
+prizes start to feel reachable.
+
 ## Step 4 — Build it
 
 Build in a fresh session of your coding agent, started after the bounty
